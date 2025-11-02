@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Classification Result</title>
+    <style>
+        body { font-family: Arial; max-width: 600px; margin: 50px auto; }
+        .result { background: #e8f5e9; padding: 20px; border-radius: 5px; }
+        a { color: #4CAF50; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <h1>Classification Result</h1>
+    <div class="result">
+        <p><strong>Predicted Species: {{ species }}</strong></p>
+        <p>Sepal Length: {{ input.sepal_length }}</p>
+        <p>Sepal Width: {{ input.sepal_width }}</p>
+        <p>Petal Length: {{ input.petal_length }}</p>
+        <p>Petal Width: {{ input.petal_width }}</p>
+        <a href="/">Back to Form</a>
+    </div>
+</body>
+</html>
