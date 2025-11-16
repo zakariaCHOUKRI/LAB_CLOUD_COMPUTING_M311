@@ -1,0 +1,6 @@
+artifact_location: file:///home/zczak/LAB_CLOUD_COMPUTING_M311/Lab%20Folder%20MLOps/mlruns/870408058790623863
+creation_time: 1763204526627
+experiment_id: '870408058790623863'
+last_update_time: 1763204526627
+lifecycle_stage: active
+name: sklearn_creditcard_broad_search

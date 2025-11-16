@@ -1,0 +1,14 @@
+artifact_uri: file:///home/zczak/LAB_CLOUD_COMPUTING_M311/Lab%20Folder%20MLOps/mlruns/870408058790623863/43f1359930a74325aa1206b10d649ce3/artifacts
+end_time: 1763204580033
+entry_point_name: ''
+experiment_id: '870408058790623863'
+lifecycle_stage: active
+run_id: 43f1359930a74325aa1206b10d649ce3
+run_name: exultant-goose-965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763204576225
+status: 3
+tags: []
+user_id: zczak

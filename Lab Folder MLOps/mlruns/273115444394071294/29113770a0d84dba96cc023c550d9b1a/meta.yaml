@@ -1,0 +1,14 @@
+artifact_uri: file:///home/zczak/LAB_CLOUD_COMPUTING_M311/Lab%20Folder%20MLOps/mlruns/273115444394071294/29113770a0d84dba96cc023c550d9b1a/artifacts
+end_time: 1763207950715
+entry_point_name: ''
+experiment_id: '273115444394071294'
+lifecycle_stage: active
+run_id: 29113770a0d84dba96cc023c550d9b1a
+run_name: omniscient-dove-717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763207948836
+status: 3
+tags: []
+user_id: zczak

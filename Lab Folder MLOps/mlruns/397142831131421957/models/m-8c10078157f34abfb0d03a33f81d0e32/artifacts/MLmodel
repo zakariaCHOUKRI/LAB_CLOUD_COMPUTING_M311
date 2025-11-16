@@ -1,0 +1,28 @@
+artifact_path: file:///home/zczak/LAB_CLOUD_COMPUTING_M311/Lab%20Folder%20MLOps/mlruns/397142831131421957/models/m-8c10078157f34abfb0d03a33f81d0e32/artifacts
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.12.0
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.12.3
+is_signature_from_type_hint: false
+mlflow_version: 3.6.0
+model_id: m-8c10078157f34abfb0d03a33f81d0e32
+model_size_bytes: 205337
+model_uuid: m-8c10078157f34abfb0d03a33f81d0e32
+prompts: null
+run_id: 8ab448618bdb4619b373058d7d85cc88
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1, 28,
+    28, 1]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1,
+    10]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-11-15 12:30:03.882735'

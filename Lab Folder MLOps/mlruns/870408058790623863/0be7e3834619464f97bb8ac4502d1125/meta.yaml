@@ -1,0 +1,14 @@
+artifact_uri: file:///home/zczak/LAB_CLOUD_COMPUTING_M311/Lab%20Folder%20MLOps/mlruns/870408058790623863/0be7e3834619464f97bb8ac4502d1125/artifacts
+end_time: 1763204532458
+entry_point_name: ''
+experiment_id: '870408058790623863'
+lifecycle_stage: active
+run_id: 0be7e3834619464f97bb8ac4502d1125
+run_name: mercurial-mole-532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763204530290
+status: 3
+tags: []
+user_id: zczak

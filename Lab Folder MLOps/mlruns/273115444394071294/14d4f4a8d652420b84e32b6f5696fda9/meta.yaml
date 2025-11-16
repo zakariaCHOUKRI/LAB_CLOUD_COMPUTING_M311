@@ -1,0 +1,14 @@
+artifact_uri: file:///home/zczak/LAB_CLOUD_COMPUTING_M311/Lab%20Folder%20MLOps/mlruns/273115444394071294/14d4f4a8d652420b84e32b6f5696fda9/artifacts
+end_time: 1763207948835
+entry_point_name: ''
+experiment_id: '273115444394071294'
+lifecycle_stage: active
+run_id: 14d4f4a8d652420b84e32b6f5696fda9
+run_name: upset-frog-969
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763207946919
+status: 3
+tags: []
+user_id: zczak

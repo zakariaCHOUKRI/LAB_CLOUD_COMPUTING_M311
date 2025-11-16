@@ -1,0 +1,14 @@
+artifact_uri: file:///home/zczak/LAB_CLOUD_COMPUTING_M311/Lab%20Folder%20MLOps/mlruns/273115444394071294/ab0c18f2a8cd4d4d892b5980f586cd78/artifacts
+end_time: 1763207963964
+entry_point_name: ''
+experiment_id: '273115444394071294'
+lifecycle_stage: active
+run_id: ab0c18f2a8cd4d4d892b5980f586cd78
+run_name: skillful-skunk-294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763207962083
+status: 3
+tags: []
+user_id: zczak

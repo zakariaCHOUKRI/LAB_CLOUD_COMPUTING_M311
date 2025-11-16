@@ -1,0 +1,14 @@
+artifact_uri: file:///home/zczak/LAB_CLOUD_COMPUTING_M311/Lab%20Folder%20MLOps/mlruns/273115444394071294/5885fea4e0e44b8989b0379f00a88e9f/artifacts
+end_time: 1763207982946
+entry_point_name: ''
+experiment_id: '273115444394071294'
+lifecycle_stage: active
+run_id: 5885fea4e0e44b8989b0379f00a88e9f
+run_name: calm-eel-46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763207981001
+status: 3
+tags: []
+user_id: zczak

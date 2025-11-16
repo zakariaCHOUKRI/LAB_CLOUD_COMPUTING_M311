@@ -1,0 +1,10 @@
+artifact_location: file:///home/zczak/LAB_CLOUD_COMPUTING_M311/Lab%20Folder%20MLOps/mlruns/273115444394071294/models/m-3633959f257f40329990b5a84df16132/artifacts
+creation_timestamp: 1763207981160
+experiment_id: '273115444394071294'
+last_updated_timestamp: 1763207982945
+model_id: m-3633959f257f40329990b5a84df16132
+model_type: null
+name: anom_weight_5_fold_5
+source_run_id: 5885fea4e0e44b8989b0379f00a88e9f
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/zczak/LAB_CLOUD_COMPUTING_M311/Lab%20Folder%20MLOps/mlruns/273115444394071294/ef5121d22fc34bc49e90ead8c4a092d9/artifacts
+end_time: 1763207943102
+entry_point_name: ''
+experiment_id: '273115444394071294'
+lifecycle_stage: active
+run_id: ef5121d22fc34bc49e90ead8c4a092d9
+run_name: clean-deer-880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763207941179
+status: 3
+tags: []
+user_id: zczak

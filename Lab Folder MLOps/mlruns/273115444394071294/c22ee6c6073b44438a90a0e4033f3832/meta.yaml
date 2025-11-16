@@ -1,0 +1,14 @@
+artifact_uri: file:///home/zczak/LAB_CLOUD_COMPUTING_M311/Lab%20Folder%20MLOps/mlruns/273115444394071294/c22ee6c6073b44438a90a0e4033f3832/artifacts
+end_time: 1763207975354
+entry_point_name: ''
+experiment_id: '273115444394071294'
+lifecycle_stage: active
+run_id: c22ee6c6073b44438a90a0e4033f3832
+run_name: placid-ray-858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763207973477
+status: 3
+tags: []
+user_id: zczak

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/zczak/LAB_CLOUD_COMPUTING_M311/Lab%20Folder%20MLOps/mlruns/598631138516048061/6ad97f74878347ecb96a242a8ae5c73b/artifacts
+end_time: 1762859901234
+entry_point_name: ''
+experiment_id: '598631138516048061'
+lifecycle_stage: active
+run_id: 6ad97f74878347ecb96a242a8ae5c73b
+run_name: bright-finch-283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762859893638
+status: 3
+tags: []
+user_id: zczak

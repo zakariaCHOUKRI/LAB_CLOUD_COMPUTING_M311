@@ -1,0 +1,14 @@
+artifact_uri: file:///home/zczak/LAB_CLOUD_COMPUTING_M311/Lab%20Folder%20MLOps/mlruns/870408058790623863/42eaa07a603044898636519b17e0f202/artifacts
+end_time: 1763204544983
+entry_point_name: ''
+experiment_id: '870408058790623863'
+lifecycle_stage: active
+run_id: 42eaa07a603044898636519b17e0f202
+run_name: righteous-hare-4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763204542708
+status: 3
+tags: []
+user_id: zczak

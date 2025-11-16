@@ -1,0 +1,14 @@
+artifact_uri: file:///home/zczak/LAB_CLOUD_COMPUTING_M311/Lab%20Folder%20MLOps/mlruns/397142831131421957/1c9974ff6f064bbf9207183dcff774b4/artifacts
+end_time: 1763303526571
+entry_point_name: ''
+experiment_id: '397142831131421957'
+lifecycle_stage: active
+run_id: 1c9974ff6f064bbf9207183dcff774b4
+run_name: judicious-perch-363
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763303501396
+status: 3
+tags: []
+user_id: zczak

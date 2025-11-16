@@ -1,0 +1,14 @@
+artifact_uri: file:///home/zczak/LAB_CLOUD_COMPUTING_M311/Lab%20Folder%20MLOps/mlruns/598631138516048061/6700d7b6008b46aaae92a954e759f661/artifacts
+end_time: 1762858534134
+entry_point_name: ''
+experiment_id: '598631138516048061'
+lifecycle_stage: active
+run_id: 6700d7b6008b46aaae92a954e759f661
+run_name: bouncy-roo-599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762858492360
+status: 3
+tags: []
+user_id: zczak

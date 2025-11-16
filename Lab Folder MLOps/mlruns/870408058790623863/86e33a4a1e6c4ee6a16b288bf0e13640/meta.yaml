@@ -1,0 +1,14 @@
+artifact_uri: file:///home/zczak/LAB_CLOUD_COMPUTING_M311/Lab%20Folder%20MLOps/mlruns/870408058790623863/86e33a4a1e6c4ee6a16b288bf0e13640/artifacts
+end_time: 1763204566254
+entry_point_name: ''
+experiment_id: '870408058790623863'
+lifecycle_stage: active
+run_id: 86e33a4a1e6c4ee6a16b288bf0e13640
+run_name: unique-cow-237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763204563470
+status: 3
+tags: []
+user_id: zczak

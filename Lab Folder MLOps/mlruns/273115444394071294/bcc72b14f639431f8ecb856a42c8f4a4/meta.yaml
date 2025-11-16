@@ -1,0 +1,14 @@
+artifact_uri: file:///home/zczak/LAB_CLOUD_COMPUTING_M311/Lab%20Folder%20MLOps/mlruns/273115444394071294/bcc72b14f639431f8ecb856a42c8f4a4/artifacts
+end_time: 1763207965848
+entry_point_name: ''
+experiment_id: '273115444394071294'
+lifecycle_stage: active
+run_id: bcc72b14f639431f8ecb856a42c8f4a4
+run_name: amusing-worm-487
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763207963966
+status: 3
+tags: []
+user_id: zczak

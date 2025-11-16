@@ -1,0 +1,14 @@
+artifact_uri: file:///home/zczak/LAB_CLOUD_COMPUTING_M311/Lab%20Folder%20MLOps/mlruns/273115444394071294/3932d04a9c134bc095a913c9eaacd57c/artifacts
+end_time: 1763207977182
+entry_point_name: ''
+experiment_id: '273115444394071294'
+lifecycle_stage: active
+run_id: 3932d04a9c134bc095a913c9eaacd57c
+run_name: suave-snake-606
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763207975355
+status: 3
+tags: []
+user_id: zczak

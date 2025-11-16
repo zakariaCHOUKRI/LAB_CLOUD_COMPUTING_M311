@@ -1,0 +1,6 @@
+artifact_location: file:///home/zczak/LAB_CLOUD_COMPUTING_M311/Lab%20Folder%20MLOps/mlruns/397142831131421957
+creation_time: 1763209601708
+experiment_id: '397142831131421957'
+last_update_time: 1763209601708
+lifecycle_stage: active
+name: TF_Keras_MNIST

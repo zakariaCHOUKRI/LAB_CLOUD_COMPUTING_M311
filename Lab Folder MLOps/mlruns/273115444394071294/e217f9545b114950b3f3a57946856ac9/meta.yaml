@@ -1,0 +1,14 @@
+artifact_uri: file:///home/zczak/LAB_CLOUD_COMPUTING_M311/Lab%20Folder%20MLOps/mlruns/273115444394071294/e217f9545b114950b3f3a57946856ac9/artifacts
+end_time: 1763207973475
+entry_point_name: ''
+experiment_id: '273115444394071294'
+lifecycle_stage: active
+run_id: e217f9545b114950b3f3a57946856ac9
+run_name: funny-koi-57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763207971579
+status: 3
+tags: []
+user_id: zczak

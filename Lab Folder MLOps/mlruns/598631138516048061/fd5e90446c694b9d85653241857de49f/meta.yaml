@@ -1,0 +1,14 @@
+artifact_uri: file:///home/zczak/LAB_CLOUD_COMPUTING_M311/Lab%20Folder%20MLOps/mlruns/598631138516048061/fd5e90446c694b9d85653241857de49f/artifacts
+end_time: 1763202995791
+entry_point_name: ''
+experiment_id: '598631138516048061'
+lifecycle_stage: active
+run_id: fd5e90446c694b9d85653241857de49f
+run_name: thundering-cat-782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763202991557
+status: 3
+tags: []
+user_id: zczak

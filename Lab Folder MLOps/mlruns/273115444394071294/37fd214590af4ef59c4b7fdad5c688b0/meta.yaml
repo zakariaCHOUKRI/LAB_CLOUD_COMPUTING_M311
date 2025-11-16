@@ -1,0 +1,14 @@
+artifact_uri: file:///home/zczak/LAB_CLOUD_COMPUTING_M311/Lab%20Folder%20MLOps/mlruns/273115444394071294/37fd214590af4ef59c4b7fdad5c688b0/artifacts
+end_time: 1763207962082
+entry_point_name: ''
+experiment_id: '273115444394071294'
+lifecycle_stage: active
+run_id: 37fd214590af4ef59c4b7fdad5c688b0
+run_name: nimble-goat-762
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763207960209
+status: 3
+tags: []
+user_id: zczak

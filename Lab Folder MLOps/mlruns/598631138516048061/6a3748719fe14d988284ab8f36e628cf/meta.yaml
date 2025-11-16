@@ -1,0 +1,14 @@
+artifact_uri: file:///home/zczak/LAB_CLOUD_COMPUTING_M311/Lab%20Folder%20MLOps/mlruns/598631138516048061/6a3748719fe14d988284ab8f36e628cf/artifacts
+end_time: 1762860017429
+entry_point_name: ''
+experiment_id: '598631138516048061'
+lifecycle_stage: active
+run_id: 6a3748719fe14d988284ab8f36e628cf
+run_name: big-asp-908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762860013506
+status: 3
+tags: []
+user_id: zczak

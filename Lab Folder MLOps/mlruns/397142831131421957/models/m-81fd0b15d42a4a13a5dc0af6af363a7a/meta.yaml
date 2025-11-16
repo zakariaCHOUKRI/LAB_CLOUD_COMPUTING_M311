@@ -1,0 +1,10 @@
+artifact_location: file:///home/zczak/LAB_CLOUD_COMPUTING_M311/Lab%20Folder%20MLOps/mlruns/397142831131421957/models/m-81fd0b15d42a4a13a5dc0af6af363a7a/artifacts
+creation_timestamp: 1763209601823
+experiment_id: '397142831131421957'
+last_updated_timestamp: 1763209626308
+model_id: m-81fd0b15d42a4a13a5dc0af6af363a7a
+model_type: null
+name: model
+source_run_id: 8a60487ee24f4a7487c71bece6c789c2
+status: 2
+status_message: null
